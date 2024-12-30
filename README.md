@@ -13,9 +13,6 @@
   <img src="https://github.com/Shubhambhadola/Credit_Transaction_Report/blob/main/Customer_dashboard.jpeg?raw=true" style="width:100%; margin:10px 0; border-radius:10px; outline:2.5px solid #1E90FF;">  
   <p style="font-family:Arial, sans-serif; line-height:1.6; color:#333;">This PDF document offers a detailed overview of the customer dashboard, which includes visualizations and reports related to customer behavior, card usage patterns, and other relevant data. It helps stakeholders understand how different customer segments are interacting with the credit card products.</p>
 
-* **README.md:**  
-  <p style="font-family:Arial, sans-serif; line-height:1.6; color:#333;">This is a markdown file that provides instructions on how to use the project, including steps to set up the dashboard, access the data files, and understand the key features. It also explains the purpose of the project and the methodology behind the analysis.</p>
-
 * **Transaction_revenue_Report.pdf:**  
   <img src="https://github.com/Shubhambhadola/Credit_Transaction_Report/blob/main/Transaction_revenue_Report.jpeg?raw=true" style="width:100%; margin:10px 0; border-radius:10px; outline:2.5px solid #1E90FF;">  
   <p style="font-family:Arial, sans-serif; line-height:1.6; color:#333;">This report offers an analysis of revenue generated from credit card transactions. It includes detailed insights into transaction volumes, average spending, and other financial metrics. This report helps stakeholders track the financial performance of the credit card operations.</p>
