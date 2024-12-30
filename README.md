@@ -8,7 +8,7 @@
 
 *   **Credit\_Card\_weekly\_report.pptx:**<p>This PowerPoint presentation provides a summary of the weekly credit card performance highlighting key trends metrics and insights. It is designed for stakeholders to quickly grasp the overall performance and any notable changes in credit card transactions over the week.</p>
     
-*   **Customer\_dashboard.pdf:** <img src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" style="width:100%;margin:10px 0;border-radius:10px;outline:2.5px solid #000;">
+*   **Customer\_dashboard.pdf:** <img src="https://github.com/Shubhambhadola/Credit_Transaction_Report/blob/main/Customer_dashboard.jpeg?raw=true" style="width:100%;margin:10px 0;border-radius:10px;outline:2.5px solid #000;">
     
     <p>This PDF document offers a detailed overview of the customer dashboard which includes visualizations and reports related to customer behavior card usage patterns and other relevant data. It helps stakeholders understand how different customer segments are interacting with the credit card products.</p>
     
